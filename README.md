@@ -1,2 +1,3 @@
 # PlatePal
 An application for online food delivery.
+This food delivery application is a sophisticated ecosystem of microservices, cutting-edge algorithms, and robust infrastructure designed to delivered and enjoyed food. At the core of our application lies microservices architecture. We've modularized services, allowing for flexibility, scalability, and fault tolerance. Each microservice has a specific function, from order processing and payment handling to user recommendations and restaurant management.Our application is designed for scalability, capable of handling peak order volumes without compromising on performance. Load balancing, cloud resources, and containerization ensure a seamless experience for users and restaurant partners.
